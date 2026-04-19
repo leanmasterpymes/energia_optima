@@ -1,0 +1,505 @@
+hora,id,nombre,tecnologia,sector,mwh_ppa,mwh_spot,mwh_total,costo_ppa_usd,costo_spot_usd
+0,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+1,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+2,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+3,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+4,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+5,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+6,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+7,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+8,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+9,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+10,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+11,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+12,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+13,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+14,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+15,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+16,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+17,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+18,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+19,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+20,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+21,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+22,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+23,G01,EGEHID (Hidro),hidro,publico,374.7,0.0,374.7,28814.43,0.0
+0,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+1,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+2,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+3,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+4,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+5,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+6,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+7,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+8,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+9,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+10,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+11,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+12,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+13,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+14,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+15,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+16,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+17,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+18,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+19,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+20,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+21,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,2.1,352.1,34475.0,593.25
+22,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+23,G02,Punta Catalina U1 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+0,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+1,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+2,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+3,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+4,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+5,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+6,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+7,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+8,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+9,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+10,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+11,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+12,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+13,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+14,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+15,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+16,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+17,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+18,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+19,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+20,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+21,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+22,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+23,G03,Punta Catalina U2 (Carbon),carbon,publico,350.0,0.0,350.0,34475.0,0.0
+0,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+1,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+2,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+3,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+4,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+5,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+6,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+7,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+8,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+9,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+10,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+11,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+12,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+13,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+14,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+15,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+16,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+17,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+18,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+19,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+20,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+21,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+22,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+23,G04,AES Andres (Gas LNG),gas,privado,300.0,0.0,300.0,32460.0,0.0
+0,G05,AES DPP Los Mina V+VI,gas,privado,148.8,0.0,148.8,18555.36,0.0
+1,G05,AES DPP Los Mina V+VI,gas,privado,150.3,0.0,150.3,18742.410000000003,0.0
+2,G05,AES DPP Los Mina V+VI,gas,privado,90.0,0.0,90.0,11223.0,0.0
+3,G05,AES DPP Los Mina V+VI,gas,privado,0.0,0.0,0.0,0.0,0.0
+4,G05,AES DPP Los Mina V+VI,gas,privado,0.0,0.0,0.0,0.0,0.0
+5,G05,AES DPP Los Mina V+VI,gas,privado,90.0,0.0,90.0,11223.0,0.0
+6,G05,AES DPP Los Mina V+VI,gas,privado,126.5,0.0,126.5,15774.550000000001,0.0
+7,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+8,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+9,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+10,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+11,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+12,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+13,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+14,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+15,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+16,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+17,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+18,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+19,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+20,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+21,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+22,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+23,G05,AES DPP Los Mina V+VI,gas,privado,210.0,0.0,210.0,26187.0,0.0
+0,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+1,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+2,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+3,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+4,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+5,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+6,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+7,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+8,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+9,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+10,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+11,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+12,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+13,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+14,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+15,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+16,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+17,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+18,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+19,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+20,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+21,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+22,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+23,G06,AES Itabo U1+U2,carbon,privado,240.0,0.0,240.0,22632.0,0.0
+0,G07,Quisqueya I+II,gas,privado,180.0,0.0,180.0,23310.0,0.0
+1,G07,Quisqueya I+II,gas,privado,0.0,0.0,0.0,0.0,0.0
+2,G07,Quisqueya I+II,gas,privado,0.0,0.0,0.0,0.0,0.0
+3,G07,Quisqueya I+II,gas,privado,0.0,0.0,0.0,0.0,0.0
+4,G07,Quisqueya I+II,gas,privado,0.0,0.0,0.0,0.0,0.0
+5,G07,Quisqueya I+II,gas,privado,0.0,0.0,0.0,0.0,0.0
+6,G07,Quisqueya I+II,gas,privado,180.0,0.0,180.0,23310.0,0.0
+7,G07,Quisqueya I+II,gas,privado,254.8,0.0,254.8,32996.6,0.0
+8,G07,Quisqueya I+II,gas,privado,311.8,0.0,311.8,40378.1,0.0
+9,G07,Quisqueya I+II,gas,privado,306.5,0.0,306.5,39691.75,0.0
+10,G07,Quisqueya I+II,gas,privado,220.3,0.0,220.3,28528.850000000002,0.0
+11,G07,Quisqueya I+II,gas,privado,248.1,0.0,248.1,32128.95,0.0
+12,G07,Quisqueya I+II,gas,privado,273.3,0.0,273.3,35392.35,0.0
+13,G07,Quisqueya I+II,gas,privado,264.8,0.0,264.8,34291.6,0.0
+14,G07,Quisqueya I+II,gas,privado,290.3,0.0,290.3,37593.85,0.0
+15,G07,Quisqueya I+II,gas,privado,367.6,0.0,367.6,47604.200000000004,0.0
+16,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+17,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+18,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+19,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+20,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+21,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+22,G07,Quisqueya I+II,gas,privado,400.0,0.0,400.0,51800.0,0.0
+23,G07,Quisqueya I+II,gas,privado,351.1,0.0,351.1,45467.450000000004,0.0
+0,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+1,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+2,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+3,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+4,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+5,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+6,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+7,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+8,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+9,G08,CESPM (Fuel Oil),fuel,privado,0.0,0.0,0.0,0.0,0.0
+10,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+11,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+12,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+13,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+14,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+15,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+16,G08,CESPM (Fuel Oil),fuel,privado,140.7,0.0,140.7,27914.879999999997,0.0
+17,G08,CESPM (Fuel Oil),fuel,privado,241.8,0.0,241.8,47973.12,0.0
+18,G08,CESPM (Fuel Oil),fuel,privado,270.0,0.0,270.0,53568.0,0.0
+19,G08,CESPM (Fuel Oil),fuel,privado,270.0,0.0,270.0,53568.0,0.0
+20,G08,CESPM (Fuel Oil),fuel,privado,270.0,0.0,270.0,53568.0,0.0
+21,G08,CESPM (Fuel Oil),fuel,privado,270.0,0.0,270.0,53568.0,0.0
+22,G08,CESPM (Fuel Oil),fuel,privado,197.5,0.0,197.5,39184.0,0.0
+23,G08,CESPM (Fuel Oil),fuel,privado,120.0,0.0,120.0,23808.0,0.0
+0,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+1,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+2,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+3,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+4,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+5,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+6,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+7,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+8,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+9,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+10,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+11,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+12,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+13,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+14,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+15,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+16,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+17,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+18,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+19,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+20,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+21,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+22,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+23,G09,Karpowership (Fuel Emergencia),fuel,privado,0.0,0.0,0.0,0.0,0.0
+0,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+1,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+2,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+3,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+4,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+5,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+6,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+7,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+8,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+9,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+10,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+11,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+12,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+13,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+14,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+15,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+16,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+17,G10,Pedernales (Fuel Oil),fuel,mixto,60.0,0.0,60.0,10716.0,0.0
+18,G10,Pedernales (Fuel Oil),fuel,mixto,112.5,0.0,112.5,20092.5,0.0
+19,G10,Pedernales (Fuel Oil),fuel,mixto,180.0,0.0,180.0,32148.0,0.0
+20,G10,Pedernales (Fuel Oil),fuel,mixto,180.0,0.0,180.0,32148.0,0.0
+21,G10,Pedernales (Fuel Oil),fuel,mixto,180.0,0.0,180.0,32148.0,0.0
+22,G10,Pedernales (Fuel Oil),fuel,mixto,80.0,0.0,80.0,14288.0,0.0
+23,G10,Pedernales (Fuel Oil),fuel,mixto,0.0,0.0,0.0,0.0,0.0
+0,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+1,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+2,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+3,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+4,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+5,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+6,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+7,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+8,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+9,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+10,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+11,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+12,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+13,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+14,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+15,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+16,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+17,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+18,G11,Metaldom y otros Fuel,fuel,privado,130.3,0.0,130.3,25434.56,0.0
+19,G11,Metaldom y otros Fuel,fuel,privado,280.3,0.0,280.3,54714.56,0.0
+20,G11,Metaldom y otros Fuel,fuel,privado,348.5,0.0,348.5,68027.2,0.0
+21,G11,Metaldom y otros Fuel,fuel,privado,300.0,0.0,300.0,58560.0,0.0
+22,G11,Metaldom y otros Fuel,fuel,privado,150.0,0.0,150.0,29280.0,0.0
+23,G11,Metaldom y otros Fuel,fuel,privado,0.0,0.0,0.0,0.0,0.0
+0,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+1,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+2,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+3,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+4,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+5,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+6,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+7,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+8,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+9,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+10,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+11,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+12,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+13,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+14,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+15,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+16,G12,Puerto Plata Gas + Sultana,gas,privado,148.1,0.0,148.1,19963.88,0.0
+17,G12,Puerto Plata Gas + Sultana,gas,privado,230.0,0.0,230.0,31004.000000000004,0.0
+18,G12,Puerto Plata Gas + Sultana,gas,privado,230.0,0.0,230.0,31004.000000000004,0.0
+19,G12,Puerto Plata Gas + Sultana,gas,privado,230.0,0.0,230.0,31004.000000000004,0.0
+20,G12,Puerto Plata Gas + Sultana,gas,privado,230.0,0.0,230.0,31004.000000000004,0.0
+21,G12,Puerto Plata Gas + Sultana,gas,privado,230.0,0.0,230.0,31004.000000000004,0.0
+22,G12,Puerto Plata Gas + Sultana,gas,privado,100.0,0.0,100.0,13480.000000000002,0.0
+23,G12,Puerto Plata Gas + Sultana,gas,privado,0.0,0.0,0.0,0.0,0.0
+0,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+1,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+2,G13,EGE Haina Barahona + Portfolio,carbon,mixto,58.5,0.0,58.5,6715.8,0.0
+3,G13,EGE Haina Barahona + Portfolio,carbon,mixto,65.8,0.0,65.8,7553.839999999999,0.0
+4,G13,EGE Haina Barahona + Portfolio,carbon,mixto,68.1,0.0,68.1,7817.879999999999,0.0
+5,G13,EGE Haina Barahona + Portfolio,carbon,mixto,87.3,0.0,87.3,10022.039999999999,0.0
+6,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+7,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+8,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+9,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+10,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+11,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+12,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+13,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+14,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+15,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+16,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+17,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+18,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+19,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+20,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+21,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+22,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+23,G13,EGE Haina Barahona + Portfolio,carbon,mixto,90.0,0.0,90.0,10332.0,0.0
+0,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,117.0,0.0,117.0,11079.9,0.0
+1,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,130.0,0.0,130.0,12311.0,0.0
+2,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,135.2,0.0,135.2,12803.439999999999,0.0
+3,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,143.0,0.0,143.0,13542.1,0.0
+4,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,150.8,0.0,150.8,14280.760000000002,0.0
+5,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,143.0,0.0,143.0,13542.1,0.0
+6,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,109.2,0.0,109.2,10341.24,0.0
+7,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,78.0,0.0,78.0,7386.6,0.0
+8,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,65.0,0.0,65.0,6155.5,0.0
+9,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,57.2,0.0,57.2,5416.84,0.0
+10,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,52.0,0.0,52.0,4924.400000000001,0.0
+11,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,46.8,0.0,46.8,4431.96,0.0
+12,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,52.0,0.0,52.0,4924.400000000001,0.0
+13,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,65.0,0.0,65.0,6155.5,0.0
+14,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,78.0,0.0,78.0,7386.6,0.0
+15,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,98.8,0.0,98.8,9356.36,0.0
+16,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,117.0,0.0,117.0,11079.9,0.0
+17,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,130.0,0.0,130.0,12311.0,0.0
+18,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,143.0,0.0,143.0,13542.1,0.0
+19,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,156.0,0.0,156.0,14773.2,0.0
+20,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,161.2,0.0,161.2,15265.64,0.0
+21,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,150.8,0.0,150.8,14280.760000000002,0.0
+22,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,135.2,0.0,135.2,12803.439999999999,0.0
+23,G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,124.8,0.0,124.8,11818.56,0.0
+0,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,67.5,0.0,67.5,6601.5,0.0
+1,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,75.0,0.0,75.0,7335.0,0.0
+2,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,78.0,0.0,78.0,7628.4,0.0
+3,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,82.5,0.0,82.5,8068.5,0.0
+4,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,87.0,0.0,87.0,8508.6,0.0
+5,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,82.5,0.0,82.5,8068.5,0.0
+6,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,63.0,0.0,63.0,6161.4,0.0
+7,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,45.0,0.0,45.0,4401.0,0.0
+8,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,37.5,0.0,37.5,3667.5,0.0
+9,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,33.0,0.0,33.0,3227.4,0.0
+10,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,30.0,0.0,30.0,2934.0,0.0
+11,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,27.0,0.0,27.0,2640.6,0.0
+12,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,30.0,0.0,30.0,2934.0,0.0
+13,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,37.5,0.0,37.5,3667.5,0.0
+14,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,45.0,0.0,45.0,4401.0,0.0
+15,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,57.0,0.0,57.0,5574.599999999999,0.0
+16,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,67.5,0.0,67.5,6601.5,0.0
+17,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,75.0,0.0,75.0,7335.0,0.0
+18,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,82.5,0.0,82.5,8068.5,0.0
+19,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,90.0,0.0,90.0,8802.0,0.0
+20,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,93.0,0.0,93.0,9095.4,0.0
+21,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,87.0,0.0,87.0,8508.6,0.0
+22,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,78.0,0.0,78.0,7628.4,0.0
+23,G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,72.0,0.0,72.0,7041.599999999999,0.0
+0,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+1,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+2,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+3,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+4,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+5,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,15.0,0.0,15.0,1236.0,0.0
+6,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,60.0,0.0,60.0,4944.0,0.0
+7,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,135.0,0.0,135.0,11124.0,0.0
+8,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,210.0,0.0,210.0,17304.0,0.0
+9,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,264.0,0.0,264.0,21753.600000000002,0.0
+10,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,288.0,0.0,288.0,23731.2,0.0
+11,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,300.0,0.0,300.0,24720.0,0.0
+12,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,294.0,0.0,294.0,24225.600000000002,0.0
+13,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,276.0,0.0,276.0,22742.4,0.0
+14,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,246.0,0.0,246.0,20270.4,0.0
+15,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,195.0,0.0,195.0,16068.000000000002,0.0
+16,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,120.0,0.0,120.0,9888.0,0.0
+17,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,45.0,0.0,45.0,3708.0000000000005,0.0
+18,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,6.0,0.0,6.0,494.40000000000003,0.0
+19,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+20,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+21,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+22,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+23,G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,0.0,0.0,0.0,0.0,0.0
+0,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+1,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+2,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+3,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+4,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+5,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,15.0,0.0,15.0,1261.5,0.0
+6,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,60.0,0.0,60.0,5046.0,0.0
+7,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,135.0,0.0,135.0,11353.5,0.0
+8,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,210.0,0.0,210.0,17661.0,0.0
+9,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,264.0,0.0,264.0,22202.399999999998,0.0
+10,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,288.0,0.0,288.0,24220.8,0.0
+11,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,300.0,0.0,300.0,25230.0,0.0
+12,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,294.0,0.0,294.0,24725.399999999998,0.0
+13,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,276.0,0.0,276.0,23211.6,0.0
+14,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,246.0,0.0,246.0,20688.6,0.0
+15,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,195.0,0.0,195.0,16399.5,0.0
+16,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,120.0,0.0,120.0,10092.0,0.0
+17,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,45.0,0.0,45.0,3784.4999999999995,0.0
+18,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,6.0,0.0,6.0,504.59999999999997,0.0
+19,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+20,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+21,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+22,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+23,G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,0.0,0.0,0.0,0.0,0.0
+0,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+1,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,30.0,0.0,30.0,3552.0,0.0
+2,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,0.0,0.0,0.0,0.0,0.0
+3,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,15.0,0.0,15.0,1776.0,0.0
+4,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,15.0,0.0,15.0,1776.0,0.0
+5,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,21.0,0.0,21.0,2486.4,0.0
+6,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+7,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+8,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+9,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+10,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+11,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+12,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+13,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+14,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+15,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+16,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+17,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+18,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+19,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+20,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+21,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+22,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+23,G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,51.0,0.0,51.0,6038.400000000001,0.0
+0,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+1,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+2,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+3,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+4,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+5,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,12.5,0.0,12.5,977.5,0.0
+6,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,50.0,0.0,50.0,3910.0,0.0
+7,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,112.5,0.0,112.5,8797.5,0.0
+8,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,175.0,0.0,175.0,13685.0,0.0
+9,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,220.0,0.0,220.0,17204.0,0.0
+10,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,240.0,0.0,240.0,18768.0,0.0
+11,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,250.0,0.0,250.0,19550.0,0.0
+12,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,245.0,0.0,245.0,19159.0,0.0
+13,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,230.0,0.0,230.0,17986.0,0.0
+14,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,205.0,0.0,205.0,16031.0,0.0
+15,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,162.5,0.0,162.5,12707.5,0.0
+16,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,100.0,0.0,100.0,7820.0,0.0
+17,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,37.5,0.0,37.5,2932.5,0.0
+18,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,5.0,0.0,5.0,391.0,0.0
+19,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+20,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+21,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+22,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+23,G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,0.0,0.0,0.0,0.0,0.0
+0,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,81.0,0.0,81.0,7443.900000000001,0.0
+1,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,90.0,0.0,90.0,8271.0,0.0
+2,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,93.6,0.0,93.6,8601.84,0.0
+3,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,99.0,0.0,99.0,9098.1,0.0
+4,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,104.4,0.0,104.4,9594.36,0.0
+5,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,99.0,0.0,99.0,9098.1,0.0
+6,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,75.6,0.0,75.6,6947.64,0.0
+7,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,54.0,0.0,54.0,4962.6,0.0
+8,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,45.0,0.0,45.0,4135.5,0.0
+9,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,39.6,0.0,39.6,3639.2400000000002,0.0
+10,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,36.0,0.0,36.0,3308.4,0.0
+11,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,32.4,0.0,32.4,2977.56,0.0
+12,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,36.0,0.0,36.0,3308.4,0.0
+13,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,45.0,0.0,45.0,4135.5,0.0
+14,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,54.0,0.0,54.0,4962.6,0.0
+15,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,68.4,0.0,68.4,6285.960000000001,0.0
+16,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,81.0,0.0,81.0,7443.900000000001,0.0
+17,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,90.0,0.0,90.0,8271.0,0.0
+18,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,99.0,0.0,99.0,9098.1,0.0
+19,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,108.0,0.0,108.0,9925.2,0.0
+20,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,111.6,0.0,111.6,10256.04,0.0
+21,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,104.4,0.0,104.4,9594.36,0.0
+22,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,93.6,0.0,93.6,8601.84,0.0
+23,G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,86.4,0.0,86.4,7940.160000000001,0.0
+0,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+1,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+2,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+3,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+4,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+5,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+6,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+7,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+8,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+9,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+10,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+11,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+12,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+13,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+14,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+15,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+16,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+17,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+18,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+19,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+20,G21,Diesel Emergencia (Generacion Backup),fuel,privado,60.0,0.0,60.0,17100.0,0.0
+21,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,60.0,60.0,0.0,16950.0
+22,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0
+23,G21,Diesel Emergencia (Generacion Backup),fuel,privado,0.0,0.0,0.0,0.0,0.0

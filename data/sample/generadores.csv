@@ -1,0 +1,22 @@
+id,nombre,tecnologia,sector,capacidad_mw,min_tecnico_mw,rampa_mw_h,precio_ppa_usd_mwh,cuota_ppa_mw,es_renovable,es_heredado,retiro_min_diario_mwh
+G01,EGEHID (Hidro),hidro,publico,624.5,0,250,76.9,500,1,1,7500
+G02,Punta Catalina U1 (Carbon),carbon,publico,376,180,80,98.5,350,0,0,0
+G03,Punta Catalina U2 (Carbon),carbon,publico,376,180,80,98.5,350,0,0,0
+G04,AES Andres (Gas LNG),gas,privado,319,140,200,108.2,300,0,1,4800
+G05,AES DPP Los Mina V+VI,gas,privado,228,90,180,124.7,210,0,1,2500
+G06,AES Itabo U1+U2,carbon,privado,264,120,120,94.3,240,0,1,3000
+G07,Quisqueya I+II,gas,privado,430,180,360,129.5,400,0,1,5000
+G08,CESPM (Fuel Oil),fuel,privado,300,120,120,198.4,270,0,1,2500
+G09,Karpowership (Fuel Emergencia),fuel,privado,183,80,90,406.0,160,0,0,0
+G10,Pedernales (Fuel Oil),fuel,mixto,200,60,100,178.6,180,0,0,0
+G11,Metaldom y otros Fuel,fuel,privado,400,120,150,195.2,360,0,0,0
+G12,Puerto Plata Gas + Sultana,gas,privado,250,100,160,134.8,230,0,0,0
+G13,EGE Haina Barahona + Portfolio,carbon,mixto,100,40,40,114.8,90,0,0,0
+G14,Eolicos Consolidado 1 (Los Cocos+Matafongo+Larimar+Guanillo),eolica,mixto,260,0,260,94.7,260,1,1,0
+G15,Eolicos Consolidado 2 (Girasol+Agua Clara+Matafongo II),eolica,privado,150,0,150,97.8,150,1,0,0
+G16,Solar Consolidado 1 (Quisqueya+Canoa+Monte Plata+Esperanza),solar,mixto,300,0,300,82.4,300,1,0,0
+G17,Solar Consolidado 2 (Pecasol+Mata Palma+Monte Rio+Bayasol),solar,privado,300,0,300,84.1,300,1,0,0
+G18,Biomasa Consolidado (San Pedro y otros),biomasa,privado,60,15,30,118.4,55,1,0,0
+G19,Solar Nuevo 2024 (proyectos recientes),solar,privado,250,0,250,78.2,250,1,0,0
+G20,Eolico Nuevo 2024 (proyectos recientes),eolica,privado,180,0,180,91.9,180,1,0,0
+G21,Diesel Emergencia (Generacion Backup),fuel,privado,200,60,100,285.0,180,0,0,0

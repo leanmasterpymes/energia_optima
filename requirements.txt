@@ -1,0 +1,14 @@
+pulp==2.8.0
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.36.0
+plotly==5.22.0
+matplotlib==3.9.0
+kaleido==0.2.1
+xgboost==2.0.3
+scikit-learn==1.5.0
+markdown==3.6
+pymdown-extensions==10.8
+pygments==2.18.0
+weasyprint==62.1
+pydyf==0.11.0
