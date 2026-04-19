@@ -123,7 +123,7 @@ def fig_hero(ahorro_anual_m: float, p_opt: float, p_real: float) -> go.Figure:
     fig.add_annotation(
         text=(
             f"<span style='color:{ACCENT};font-family:JetBrains Mono;"
-            f"font-size:18px;letter-spacing:0.22em'>"
+            f"font-size:34px;font-weight:600;letter-spacing:0.22em'>"
             "// POTENCIAL DE AHORRO ANUALIZADO</span>"
         ),
         xref="paper", yref="paper", x=0.5, y=0.82,

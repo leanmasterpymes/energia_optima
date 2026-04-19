@@ -363,7 +363,7 @@ insight_html = (
     f'el óptimo del modelo (<b>{p_opt:.2f}</b>) y el ponderado real 2024 '
     f'reportado por el Ministerio de Energía y Minas (<b>{PRECIO_REAL_2024:.2f}</b>). '
     f'Proyectado sobre <span class="num">{twh_anual:,.1f} TWh/año</span> '
-    'de compra de las EDEs.'
+    'de demanda del Mercado Eléctrico Mayorista.'
     '</div>'
     '</div>'
 )
