@@ -459,7 +459,7 @@ with tab1:
     fig = layout_chart(fig, height=470)
     fig.update_yaxes(title=dict(text="MWh",
                                 font=dict(color=INK_DIM, size=11)))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 with tab2:
     c1, c2 = st.columns(2)
@@ -497,7 +497,7 @@ with tab2:
             legend=dict(orientation="v", yanchor="middle", y=0.5,
                         xanchor="left", x=1.05, font=dict(color=INK_SOFT)),
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     with c2:
         st.markdown(
             '<div class="sec">Mix por sector'
@@ -527,7 +527,7 @@ with tab2:
             legend=dict(orientation="v", yanchor="middle", y=0.5,
                         xanchor="left", x=1.05, font=dict(color=INK_SOFT)),
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
 with tab3:
     st.markdown(
@@ -558,7 +558,7 @@ with tab3:
     fig = layout_chart(fig, height=380)
     fig.update_yaxes(title=dict(text="USD",
                                 font=dict(color=INK_DIM, size=11)))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.markdown(
         '<div class="sec">Precio marginal spot horario'
@@ -582,7 +582,7 @@ with tab3:
     fig2 = layout_chart(fig2, height=320)
     fig2.update_yaxes(title=dict(text="USD/MWh",
                                  font=dict(color=INK_DIM, size=11)))
-    st.plotly_chart(fig2, use_container_width=True)
+    st.plotly_chart(fig2, width="stretch")
 
 with tab4:
     st.markdown(
@@ -610,7 +610,7 @@ with tab4:
             "mwh_ppa", "mwh_spot", "mwh_total",
             "costo_usd", "precio_promedio",
         ]],
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         column_config={
             "nombre": st.column_config.TextColumn("Generador", width="large"),
